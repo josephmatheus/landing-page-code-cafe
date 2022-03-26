@@ -1,6 +1,6 @@
 # Code Café
 Landing page criada como parte de um dos módulos do curso DevQuest da [Dev em Dobro](https://github.com/devemdobro) <br>
-Para visualizar o projeto clique [aqui](https://josephmatheus.github.io/landing-page-code-cafe/).
+Para visualizar o projeto clique [AQUI](https://josephmatheus.github.io/landing-page-code-cafe/).
 
 ## Imagens do Projeto
 ![Captura de tela 2022-03-26 185221](https://user-images.githubusercontent.com/89085971/160258326-6c585c4b-a1f3-49ef-a2e2-399d773f326e.png)
